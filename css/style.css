@@ -353,6 +353,7 @@ button {
      line-height: 90px;
      padding-bottom: 70px;
      font-weight: bold;
+     z-index: 10;
 }
 
 .text-bg strong {
